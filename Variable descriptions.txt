@@ -1,0 +1,39 @@
+ID: Anonymized ID
+
+gender: Indicated gender of the participants; f- female; m-male
+
+age[age]: Age in years
+
+language: Native laguage; e-english; other-non-english
+
+BPMNexperience[yes]:  Answer to the question 'Did you ever learn about process models (e.g., BPMN) before?'; NA-no; Y-yes
+
+openquestion: Answer to the question 'What is your opinion on seeing the teacher's eye movements in the learning video? Please explain your answer briefly.'
+
+followingteacher[following]: Answer to the question 'While studying the video, was it always clear to you what the teacher was referring to?' on a scale from 1 ('never') to 9 (‘always').
+
+load_video: Answer to the question 'How much mental effort did you invest in studying the previous video?' on a scale from  1 ('very, very low mental effort') to 9 ('very, very high mental effort')
+
+load_recall: Answer to the question 'How much mental effort did you invest in completing this task?' on a scale from 1 ('very, very low mental effort') to 9 ('very, very high mental effort')
+
+study_duration: Study duration in minutes
+
+condition: 1,2,3,4, depending on the combination of condition_mouse and condition_gaze
+
+condition_mouse: Indicates whether the mouse cursor is present or absent in the video; mouse present vs. mouse absent
+
+condition_gaze: Indicates whether the gaze cursor is present or absent in the video; gaze present vs. gaze absent
+
+loadtransfer: Average answer to the question 'How much mental effort did you invest in completing this task?' on a scale from 1 ('very, very low mental effort') to 9 ('very, very high mental effort'). We asked this question after each transfer-test item.
+
+score_pretest: Total score of the pretest/prior knowledge test from 0 to 11
+
+score_recall: Total score of the pretest/prior knowledge test from 0 to 11
+
+attention1: Response to the first attention check item; 0-incorrect; 1-correct
+
+attention2: Response to the second attention check item; 0-incorrect; 1-correct
+
+score_open_question: Valence score of participants' answers to the question 'What is your opinion on seeing the teacher's eye movements in the learning video? Please explain your answer briefly.' -1-negative; 0-neutral/mixed; 1-positive
+
+score_transfer: Total score of the transfer test from 0 to 18

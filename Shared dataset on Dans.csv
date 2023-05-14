@@ -1,0 +1,128 @@
+ID,gender,age[age],language,BPMNexperience[yes],openquestion,followingteacher[following],load_video,load_recall,study_duration,condition,condition_mouse,condition_gaze,load_transfer,score_pretest,score_recall,attention1,attention2,score_open_question,score_transfer
+5e5c2d2e9f005541804e880d,f,19,other,NA,It is confusing. I would enjoy more if he used only the mouse to point.,7,3,8,41.9765,4,mouse present,gaze present,7.111111111,2,5,1,1,-1,10
+5eea82762528b3196fe739b5,m,26,other,NA,"I'm not sure it helped, it was roaming about everywhere sometimes, seemed a bit chaotic relative to the cursor.",9,5,6,53.17516667,4,mouse present,gaze present,5.333333333,5,11,1,0,-1,10.5
+5efc7c87ae067d024d35278b,m,18,other,NA,NA,8,6,2,46.47483333,2,mouse present,gaze absent,4.666666667,1,10,1,1,NA,14.5
+5e693093eca39a05a5f92bd7,m,21,other,NA,his eye movement followed the explanation step by step he was very,7,8,6,42.738,4,mouse present,gaze present,5.444444444,0,5,1,0,1,6.5
+5f1363908cb3ae36bddc069d,m,20,other,NA,NA,8,6,6,65.57483333,1,mouse absent,gaze absent,4.222222222,4,10,1,0,NA,13.5
+5fad4e35756cce03334411c2,m,20,other,NA,I was quite usefull,9,6,7,35.5875,3,mouse absent,gaze present,5.333333333,1,7,1,1,1,11
+5f9db33caa0c5631a5f9cc7d,f,22,other,NA,I think it is important to be able to follow the reasoning and what you are explaining at the moment.,9,5,4,51.28166667,3,mouse absent,gaze present,5.111111111,4,9,1,0,1,6.5
+5ee4ed55dd5d0620d4b8e9c1,m,24,other,NA,"
+it wasn't very good",3,2,7,33.68333333,4,mouse present,gaze present,4.555555556,5,3,0,1,-1,3
+5f108e5725153235c25ab4dc,m,20,other,NA,NA,5,5,5,38.166,2,mouse present,gaze absent,5,0,7,1,1,NA,3.5
+5fa52e4b614df31fe914d86a,m,19,other,NA,It is good to see teacher's eye movements because I know what teacher is talking about,7,9,9,37.715,4,mouse present,gaze present,8.777777778,0,11,1,1,1,10.5
+5c0682910ac58a00011568a5,m,18,other,NA,"it was kinda helpful, because i knew what he was looking at",7,8,8,45.74033333,4,mouse present,gaze present,8,0,9,1,1,1,12.5
+5fabcdd6a5caa50491afce19,m,19,other,NA,NA,4,5,8,42.35366667,1,mouse absent,gaze absent,8.111111111,0,9,1,1,NA,9
+5fad9cb5460126158bf715f8,f,22,other,Y,In my opinion the teacher's eye movements was great. I was able to understand what he is talking about. He has a enough rate (tempo) so i was able to follow him and listened. I didn't have to stress that I didn't follow.,7,9,8,67.97716667,4,mouse present,gaze present,6.888888889,0,11,1,1,1,7.5
+5eec65b6f9a5a948009b923f,m,24,other,NA,NA,8,9,9,44.598,1,mouse absent,gaze absent,9,0,8,1,1,NA,11
+5f7ef4fc3872531eb775f1ad,f,22,other,NA,NA,9,8,9,40.5385,2,mouse present,gaze absent,8.777777778,3,11,1,1,NA,12
+5f99a7328a8128034d660562,m,20,other,NA,NA,8,7,9,44.24416667,1,mouse absent,gaze absent,5.888888889,0,7,1,1,NA,8.5
+5f502e9af21c6b1aea508b63,m,25,other,NA,"It managed to convey the point across, I knew which part of the picture I was supposed to pay attention. However, its was bit too erratic for me, and I felt that sometimes, it has done more harm then good, as the teacher hasnt been always looking at the part he was talking about.",7,8,9,45.66566667,3,mouse absent,gaze present,8.222222222,0,11,1,1,0,15
+5fa59473579b580b6cbd951c,f,20,e,NA,NA,6,8,8,32.84966667,2,mouse present,gaze absent,6.555555556,0,4,1,0,NA,8.5
+5e67b68a0ba4810633cd4635,f,19,other,NA,NA,7,6,2,70.90733333,1,mouse absent,gaze absent,5.111111111,0,7,1,1,NA,5.5
+5fbd433cb6d9240ba9c55548,m,22,other,Y,NA,8,7,6,52.95283333,2,mouse present,gaze absent,6.777777778,5,10,1,1,NA,15
+5f3444a26880be32a06fa086,m,19,other,NA,"This cool, very handy function",8,7,7,57.96783333,4,mouse present,gaze present,7.222222222,6,8,1,0,1,8
+5eba98ceb89aff210c709192,m,18,other,NA,It was helpful sometimes,7,8,8,41.77783333,4,mouse present,gaze present,7.333333333,1,9,1,0,0,5
+5adde94be2ceee00010fcb4d,f,21,e,NA,I don't think it made a difference in how I personally comprehended what he was saying but I understand other people would find it helpful so I think it's good that they're included in the video.,9,8,8,28.84316667,3,mouse absent,gaze present,7.777777778,0,7,1,1,1,5.5
+5ec5a55832a7515e8324a8a8,m,27,other,NA,NA,9,6,5,44.54433333,1,mouse absent,gaze absent,5.555555556,0,8,1,1,NA,8.5
+5e9133f704391d46ee2bcb31,m,23,other,NA,It would be more helpfull if the dot didn't lag so much,9,8,8,48.9165,4,mouse present,gaze present,8.222222222,1,11,1,1,-1,12
+5f26e3d6f3b6ba48b4335af1,m,19,e,NA,NA,7,5,7,34.376,1,mouse absent,gaze absent,6.666666667,0,7,1,0,NA,9
+5fb50f40340ae6117b78fa62,f,19,other,NA,What do you mean? I did not see his eyes or was that supposed to be the yellow dot? This is a confusing question.,8,3,5,38.14266667,3,mouse absent,gaze present,4.666666667,4,9,1,1,0,2
+5c49c9ebe02ead00019b0a5b,m,23,other,NA,It was really helpful for me to see his eye movements. Without this feature it would have been impossible for me to follow and understand his explanation watching this video only once.,9,9,8,40.05783333,4,mouse present,gaze present,7.777777778,1,9,1,1,1,7
+5a04983b38ed430001be72ef,f,23,other,NA,it was very nice to understand what he was talking about,8,6,7,36.30216667,4,mouse present,gaze present,7.222222222,0,9,1,0,1,4.5
+5f19c60b57fe5e0561cd93d6,f,19,other,NA,NA,3,8,9,43,1,mouse absent,gaze absent,8.111111111,0,8,1,1,NA,7
+5f3d74cb18420112eccbcb7d,m,19,other,NA,NA,2,4,7,43.96516667,1,mouse absent,gaze absent,7.333333333,3,9,1,1,NA,4.5
+5da46d9d1bffb80016864d6a,f,20,other,NA,NA,8,4,6,38.795,2,mouse present,gaze absent,3.888888889,0,9,1,0,NA,9
+5fca632e2c738463cdd11d2e,m,18,other,Y,NA,7,7,6,46.27666667,1,mouse absent,gaze absent,6.111111111,8,10,1,0,NA,9.5
+5f889b52d2665d0157fd8b22,m,24,other,NA,NA,9,8,7,38.90066667,1,mouse absent,gaze absent,7.333333333,2,11,1,1,NA,13
+5d24e950d4ae76000172b3ff,m,23,other,NA,NA,7,7,6,43.22416667,1,mouse absent,gaze absent,7.333333333,0,7,1,0,NA,11
+5f58bd5274dddc044042e001,f,22,e,NA,NA,4,7,9,31.375,2,mouse present,gaze absent,6.333333333,0,3,1,1,NA,1
+5f89b2165e742d0a108fa294,m,20,other,NA,His eyes movement almost always coincided with the movement of the mouse pointer. He followed exactly every image/part of image he was explaining.,9,8,5,49.17316667,4,mouse present,gaze present,5.888888889,2,11,1,1,0,15.5
+5fc4bc07be970b93ac1ac3b2,m,28,other,NA,"The teacher was always following the item he spoke about with his eyes - this was very much a real-time action, so always pointed at the item he spoke about, or referred to.",7,8,8,35.635,4,mouse present,gaze present,8.444444444,0,7,1,1,1,5.5
+5f3838bf6b6b703315fc0ad1,f,19,other,NA,It was pretty useful to me as I knew where to look. I oriented in the video more clearly.,9,7,9,70.68233333,4,mouse present,gaze present,6.888888889,0,10,1,0,1,11.5
+5fad2835047e733aed848838,m,21,other,NA,NA,6,9,9,46.502,2,mouse present,gaze absent,8.888888889,1,1,1,0,NA,4.5
+5e2b00df54650c1518869798,f,30,other,NA,NA,8,8,9,59.18983333,1,mouse absent,gaze absent,7.888888889,0,6,1,1,NA,13
+59f25f8fcc514a00011a673d,m,21,other,NA,NA,8,4,7,32.437,2,mouse present,gaze absent,6.666666667,0,10,1,1,NA,9
+5e5c993cd0394c474f7cc502,m,24,other,NA,NA,8,9,8,38.43216667,2,mouse present,gaze absent,7.555555556,0,11,1,0,NA,8.5
+5f2448855226b0000a8129e1,m,19,other,NA,It was nice but in my opinion the mouse cursor movement is better in explaining things.,8,7,8,35.65283333,4,mouse present,gaze present,6.888888889,1,7,1,1,-1,5
+5f843bd660bf8a0406a09db2,m,21,other,NA,NA,7,6,7,38.46683333,2,mouse present,gaze absent,6,2,2,1,1,NA,2.5
+5fb7cfde7808523cea8ee891,m,20,other,NA,NA,9,7,7,54.48216667,2,mouse present,gaze absent,6,3,10,1,1,NA,11.5
+5fb6e11efec8e114e1207f9e,m,22,other,NA,NA,7,7,8,38.69333333,1,mouse absent,gaze absent,6.444444444,5,8,1,1,NA,7.5
+5f1049971158f02ac6751ea4,f,29,e,NA,NA,9,3,9,43.7725,1,mouse absent,gaze absent,6.333333333,0,5,1,0,NA,5
+5c2f5cf789f035000176431b,m,21,other,NA,NA,6,7,8,32.7655,2,mouse present,gaze absent,6.222222222,0,8,1,1,NA,6.5
+5f2710df5d5c6c3f0fa9c2a7,f,23,other,Y,"I think that seeing the teacher's eye movements is very helpful, made me pay more attention on the video, because i was following the eye movement all the time.",3,8,8,56.944,3,mouse absent,gaze present,9,1,2,1,1,1,3
+5fc3bafb50130c21f8975bb0,m,18,other,NA,Help who are watching the video understanding better the explanation and we know to where we need to focus our attention.,9,7,8,46.75966667,3,mouse absent,gaze present,7.555555556,0,3,1,1,1,5.5
+5fbc5c3a4e6450128c7cf587,f,20,e,NA,NA,5,8,7,40.01133333,2,mouse present,gaze absent,7.111111111,0,5,1,0,NA,4
+5f5482f181dfe77f7af03a04,f,24,other,NA,It’s distracting because it moves a lot,9,6,7,47.342,4,mouse present,gaze present,5.888888889,0,6,1,1,-1,4
+5d4f13b0e02e5500162bb664,f,23,other,NA,NA,9,7,7,47.69616667,1,mouse absent,gaze absent,7.222222222,0,6,1,1,NA,7.5
+5ee001ead9eb7134ccc2560a,m,20,other,NA,"I think that BPMN is a great notation when we're taking about a language that is capable to achieve the universality of modeling and process businesses.
+",7,8,9,64.77466667,3,mouse absent,gaze present,7.666666667,1,10,1,1,0,2
+5f2ad7d6a305a13e66a7ac32,f,21,other,NA,"The movement of a yellow dotreally bothered me, but he seemd focused on the things he said",5,8,7,30.44283333,4,mouse present,gaze present,6.555555556,0,4,1,1,-1,2
+5e81cd3de28dab8c8a5e3dda,f,22,other,NA,I think that it helps a lot more to understand the model.,7,5,8,48.74416667,4,mouse present,gaze present,7.555555556,0,7,1,1,1,12.5
+5dfc82a1265c80974dd24384,f,20,other,NA,NA,8,8,9,53.57833333,1,mouse absent,gaze absent,5.555555556,0,10,1,1,NA,9.5
+5c49c880f80d580001edf7d4,f,33,other,NA,I haven't seen any eye's movements. I saw the mouse movements and they helped follow the explanations,8,6,7,46.59933333,4,mouse present,gaze present,5.777777778,0,10,1,0,0,8.5
+5fab2c88a56b275e9ac83d62,m,18,other,NA,NA,8,8,8,47.04766667,2,mouse present,gaze absent,7.444444444,0,9,1,1,NA,7.5
+5eb53f0da7325c023549eff9,m,20,other,NA,It helps me with focusing on a part of the learning video that is the most important at that moment.,6,7,6,60.97516667,3,mouse absent,gaze present,8.333333333,0,8,1,0,1,4.5
+5efb5159147ea4089af8685d,f,29,other,NA,I think it made it easier to follow his explanations along the presentation. It allowed me to focus on a certain activity or a certain part of the process that he was talking about.,9,6,6,45.78716667,4,mouse present,gaze present,6.888888889,0,9,1,0,1,13.5
+5f15b53c0a46a669b5097782,m,20,other,NA,NA,9,4,7,31.25066667,2,mouse present,gaze absent,6,0,5,1,1,NA,4
+5ef54a3ea6dbb61a71007f32,f,23,other,NA,"excellent, because they helped in a better understanding of the topic",9,6,8,60.79516667,3,mouse absent,gaze present,8.777777778,0,7,1,1,1,4
+5d699085193a6d00172906a0,m,29,other,NA,NA,7,3,3,33.66233333,2,mouse present,gaze absent,1.666666667,0,8,1,1,NA,10.5
+5edf844ec97eaa241a0b287a,m,27,other,NA,NA,6,9,9,38.9635,1,mouse absent,gaze absent,7.333333333,7,6,1,1,NA,6.5
+5d245e26b6b9c20001d17b37,f,24,other,NA,NA,5,6,7,38.51183333,1,mouse absent,gaze absent,4.444444444,0,9,1,1,NA,8
+5f907b2db259b6143a6659ba,f,22,other,NA,It was a little confusing watching his eye movements. It made it a little difficult to think that that was not the mouse.,9,7,7,59.67116667,4,mouse present,gaze present,7.222222222,0,11,1,1,-1,9.5
+5fb7c4193dc0313a8f8e7384,f,25,other,NA,NA,9,8,9,36.51766667,1,mouse absent,gaze absent,7.666666667,2,10,1,1,NA,12.5
+5c91546cb0e25400180356eb,m,22,other,NA,NA,7,7,8,19.80516667,1,mouse absent,gaze absent,6.888888889,0,8,1,0,NA,10.5
+5f3a4d6e46aeb903e3aaa4da,m,21,e,NA,Very useful,8,5,8,53.1365,3,mouse absent,gaze present,5.777777778,2,6,1,0,1,9
+5eb16a92589b0406aedfc167,m,19,other,NA,"It doesn't help, i think that the topic isn't that complicated and i can follow it just fine, without the eye-tracker. I found the dot to be distracting if anything.",9,7,8,42.60733333,3,mouse absent,gaze present,5.777777778,3,10,1,1,-1,11
+5f47e21ecd5e5d225ab08b9b,m,21,other,NA,it is not helping. It coul be more helping show a dot-indicator more than the eye movement beacuse not always the eyes/programtracker follow correctly the situaion explained and it comtribute t lost the focus,7,8,9,35.85033333,3,mouse absent,gaze present,8.666666667,0,7,1,1,-1,6.5
+5ebd38e02e33bc086d2f513e,f,23,other,NA,I think that is very useful in order to understand all the parts,9,8,6,38.66466667,3,mouse absent,gaze present,6.777777778,0,10,1,0,1,6.5
+5eedfa35d900512449b1240b,f,20,other,NA,The eye movement was helpful I as could see the elements the teacher was naming and learn them better.,9,8,8,55.03533333,3,mouse absent,gaze present,8.666666667,0,11,1,1,1,12
+5ee4b4715b6d9101d65ffc89,m,20,other,Y,Very good.,8,6,8,47.34366667,3,mouse absent,gaze present,6.888888889,11,9,1,1,1,7.5
+5bf4d018ad056d0001dcbfab,m,28,other,NA,Sometimes the eye movements is a bit shaky in a sense that it moves from time to time. Although it would be nice to have a stable movement of the pointer so that the listener is well-guided. Too many movements also lose focus from the listener's side.,7,6,7,63.409,3,mouse absent,gaze present,7.333333333,3,9,1,0,-1,8
+5ec3a1fe1bfa1720b3731604,f,26,other,NA,this made the video very clear and approachable to the student. it helped me understand many of the symbols while following the steps.,7,9,9,52.25433333,3,mouse absent,gaze present,9,0,10,1,0,1,10.5
+5f6dc0eada0d98246f541da2,m,19,e,NA,"It was a very educational video, i didn't knew anything about BPMN before watching it, and i think i understood the basic concepts with it!",6,7,6,49.97666667,3,mouse absent,gaze present,6.888888889,0,8,1,0,0,13
+5fbea874041324074f0c3171,f,19,e,NA,I think it is good that we are able to see exactly what the teacher is talking about otherwise we could get easily lost/confused on what elements the teacher is talking about etc.,7,7,7,33.25366667,3,mouse absent,gaze present,7.555555556,0,8,1,1,1,6.5
+5e6e1cdb47b4423c29b7ce9a,f,22,other,NA,It was very helpful and I was able to follow what the teacher was explaining while showing exactly what I was supposed to look at,9,8,8,61.9185,3,mouse absent,gaze present,8.222222222,0,9,1,1,1,9
+5f5635f361579501bfbaf4b9,m,20,other,NA,It was a good way of learning,8,4,4,25.3195,3,mouse absent,gaze present,3.777777778,0,4,1,1,1,2
+5f4d2135061bf00dc540271b,m,22,other,NA,NA,8,7,6,38.94833333,3,mouse absent,gaze present,5.222222222,3,9,1,1,NA,4
+5faacca24cd0384c1fa08be1,m,20,other,NA,That teacher was really good at it and clearly explain me information about BPMN.,8,5,5,69.097,3,mouse absent,gaze present,6,3,11,1,1,1,7
+5f0448506587140241493cbe,f,23,other,NA,"It was as useful as if he had used a pointer, but I guess that it is easier for him to have an eye-tracker than to split his attention between the pointer and the lecture.",8,8,9,41.588,3,mouse absent,gaze present,6.111111111,0,8,1,1,0,8.5
+5ec3b9e83f187802a6aa041e,f,23,other,NA,"I really liked this effect because it made the teaching process more effective, since I could see the things the teacher was talking about and I was more concentrated.",9,6,8,60.64466667,3,mouse absent,gaze present,6.888888889,0,11,1,1,1,14
+5eceef5fa487421604c337ba,m,23,e,NA,"It was really nice,it was made very clear the process and also made very effective the teaching.The visual and sound combination was very effective.",9,5,7,60.218,3,mouse absent,gaze present,6.333333333,0,11,1,1,1,14
+5f15f96e54587538da27d452,m,20,e,NA,It was helpful seeing the teacher's eye movements because I could understand better what he was talking about.,8,7,8,42.7775,3,mouse absent,gaze present,6.666666667,1,11,1,1,1,10.5
+5f33c58329beab1f63c0dfaa,m,19,other,NA,I think it's good idea because you can concentrate on the thing which the teacher is describing,8,8,8,38.80866667,3,mouse absent,gaze present,8.555555556,0,4,1,1,1,3
+58b718c7e38022000152c828,m,27,other,NA,"The eye movement marker jumped around too rapidly and sporadically - if the purpose is to highlight what the lecturer is talking about when explaining things, I think a regular mouse-controlled marker would work better due to smoother movements.",7,9,9,38.07666667,3,mouse absent,gaze present,9,1,11,1,1,-1,17
+5f19373573579d191366b334,f,19,other,NA,"In my opinion seeing the teacher's eye movements in this video was quite comfortable and pleasant to watch. Everything was clear and showed in a good way, I think. Every important thing has been thoroughly explained and shown.",8,9,8,78.89266667,3,mouse absent,gaze present,8.555555556,2,8,1,1,1,6
+5c7019188f31e7000161232b,f,22,other,Y,NA,9,7,7,33.1425,2,mouse present,gaze absent,7.777777778,8,10,1,0,NA,13
+5e42bb8bcfafb814c15bfa8e,m,22,other,Y,NA,8,7,5,39.8055,2,mouse present,gaze absent,5.555555556,1,7,1,0,NA,9.5
+5f58da9f74dddc07819266c1,m,23,other,NA,NA,7,8,6,59.35233333,2,mouse present,gaze absent,6.111111111,0,10,1,1,NA,7
+5eeb719e9c6aa82e9e2ec7cd,m,24,other,NA,NA,9,6,9,52.12283333,2,mouse present,gaze absent,7.888888889,0,10,0,1,NA,10.5
+5f85855d36d41103b84adad2,f,33,e,NA,NA,3,7,7,42.10233333,2,mouse present,gaze absent,7,3,7,1,1,NA,3
+5c72a71f595f3f00015b5849,m,24,other,NA,NA,9,5,8,36.3455,2,mouse present,gaze absent,8.444444444,0,6,1,1,NA,10
+5d433248638dca0015da9d7b,m,19,other,NA,NA,8,4,1,46.24483333,2,mouse present,gaze absent,2.777777778,0,10,1,1,NA,11.5
+5e398a6ef906aa19bb160842,f,20,e,NA,NA,7,8,8,33.46733333,2,mouse present,gaze absent,8.111111111,0,9,1,0,NA,12
+5fc10c9ec1c0520a44a0d902,f,30,e,NA,NA,9,9,9,33.1445,2,mouse present,gaze absent,8,4,9,1,0,NA,2
+5d989cb14658d5001883ff18,m,21,other,NA,NA,8,7,6,47.756,2,mouse present,gaze absent,5.444444444,9,11,1,0,NA,7.5
+5f6b014c3320a31dcef297e6,m,18,e,NA,NA,8,8,8,49.82816667,2,mouse present,gaze absent,8.222222222,0,10,1,0,NA,7
+5f0af202ec6afa02e8db0daf,f,20,other,NA,NA,8,8,9,33.06233333,2,mouse present,gaze absent,8.111111111,0,9,1,1,NA,4
+5fa046a2e7945503fdb50d9a,f,22,other,NA,NA,8,5,9,26.09366667,2,mouse present,gaze absent,6.444444444,0,11,1,1,NA,13
+5ec48aac33b93f000ab96b7f,f,21,other,NA,NA,4,8,9,58.439,2,mouse present,gaze absent,8.888888889,0,4,1,1,NA,7.5
+5f8310cc97a96f4484b0dbdc,m,19,other,NA,NA,3,7,8,37.64583333,1,mouse absent,gaze absent,4.555555556,0,5,1,1,NA,5.5
+5f7368c43a52e808ab00fe85,m,20,e,NA,NA,9,7,8,30.32466667,1,mouse absent,gaze absent,6.666666667,5,11,1,1,NA,6.5
+5f0452d558d1c26aa28f6d18,f,26,e,NA,NA,2,9,9,61.176,1,mouse absent,gaze absent,8.444444444,1,10,1,1,NA,2
+5f7f1e4acf7c770505c14357,m,NA,other,NA,NA,8,3,4,43.34083333,1,mouse absent,gaze absent,3.777777778,4,11,1,1,NA,10.5
+5de016f1a63c7b0947c54c6b,f,28,other,NA,NA,8,5,7,66.89466667,1,mouse absent,gaze absent,6.666666667,0,8,1,1,NA,12.5
+5ef0f57e6f5b1a09f803e73f,m,26,other,NA,NA,8,5,6,46.22616667,1,mouse absent,gaze absent,4.666666667,0,10,1,0,NA,16.5
+5f108dea719866356702d26f,m,22,other,NA,NA,8,8,8,64.64033333,1,mouse absent,gaze absent,8.222222222,0,7,1,0,NA,9.5
+5f917101b9db9f060223e507,m,19,other,NA,NA,6,9,9,38.54,1,mouse absent,gaze absent,9,0,9,1,0,NA,5.5
+5f1a8adaa73eec1ac4d3499b,m,19,other,NA,it helped to see what he was focusing on and made it easy to understande some movements did not make sense though but it did not made anything unclear,9,8,8,43.73283333,4,mouse present,gaze present,5.888888889,2,10,1,1,1,10
+5f50985cc5f9412102ab71f9,m,25,other,NA,"It didn't really help. If anything, it was making the video harder to focus. I would much rather to see the pointer (cursor) highlighted.
+The cursor will always be pointed to the element of focus. However, the eye movements are not always locked to the element of focus making the video harder to follow.",9,7,9,34.533,4,mouse present,gaze present,9,0,5,1,1,-1,11.5
+5e4314ad234956000a8a91f3,m,20,e,Y,It was great as I knew on which detail to focus at each moment when he was speaking.,8,7,8,42.38266667,4,mouse present,gaze present,8.111111111,1,9,1,1,1,12.5
+5f285323a079ce0f2a83d430,f,20,other,NA,It was a better way to understand the symbols because it was like seating in a amphitheater and the teacher was in front of has doing the lecture,9,8,6,58.009,4,mouse present,gaze present,6.888888889,8,8,1,1,1,6.5
+5e4a932344498f4e361fee0d,m,22,other,Y,"It was kind of annoying to be honest, especially with how erratically it moved. I preferred to look at the mouse pointer instead.",7,6,7,44.69616667,4,mouse present,gaze present,4.777777778,2,11,1,1,-1,13
+5c409407e7ccbf000174f147,f,36,e,NA,it was more distracting then anything i was following the dot,7,8,7,32.12733333,4,mouse present,gaze present,7.111111111,0,3,1,0,-1,0
+5f01a0893963d02ea1d65d12,m,26,other,NA,it really helped me understand where to look and follow the teacher's guidance/order.,8,7,8,58.719,4,mouse present,gaze present,7.555555556,0,10,1,1,1,17
+5e67a25bff87e0047c6c436b,m,18,other,NA,"I think it didn't help me at all, i wasn't paying attention to it. I myself prefer to look things up myself and listening to the teacher than looking where he is looking",7,8,7,56.69066667,4,mouse present,gaze present,6.333333333,0,6,1,1,-1,6.5
+5d374dad87890100159e52b3,m,35,other,Y,the teacher's eyes were sometimes on the points he was explaining at the time and sometimes a little on the front or back. I have no idea why this was happening,8,7,8,35.86,4,mouse present,gaze present,8,0,6,1,1,0,3.5
+5fbedb605c74b312137f371b,m,28,e,NA,NA,4,5,6,27.9015,1,mouse absent,gaze absent,5.777777778,1,3,1,1,NA,2.5
+5f7a656d41d27f6c831fdb1f,f,21,other,NA,NA,6,8,9,20.07733333,1,mouse absent,gaze absent,7.333333333,3,8,0,1,NA,5
